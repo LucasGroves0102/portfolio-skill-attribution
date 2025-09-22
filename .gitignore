@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data & reports
+data/*
+reports/*
+
+# Keep dirs
+!data/.gitkeep
+!reports/.gitkeep
+
